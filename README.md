@@ -7,7 +7,7 @@ This is the repository for the paper Complete Chess Games Enable LLM Become A Ch
 ![image](https://github.com/Inch-Z/ChessLLM/blob/main/NAACL%202025_8.png)
 
 # Citation
-If you think this benchmark helps, welcome to cite our paper.
+If you think this paper helps, welcome to cite our paper.
 
 ```
 @article{zhang2025complete,
